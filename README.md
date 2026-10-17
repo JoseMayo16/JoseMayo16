@@ -28,8 +28,15 @@ I'm a full stack web developer in Medellín, Colombia. I build custom web apps, 
 automations with **Laravel**, **Vue** and **Python** for businesses and teams that need
 something built for them, from a single API to a full admin dashboard.
 
-I'm on Colombia time (UTC-5, no daylight saving), so my working day overlaps with the US
-and Canada.
+### About me
+
+- **3 years building software for real clients**, after 2 years of formal studies.
+- **Websites for small businesses**, and **websites and automations for large organizations**
+  such as Universidad de Antioquia (UdeA).
+- **I work in English (B2, certified) and Spanish (native).** I'm on Colombia time (UTC-5,
+  no daylight saving), so my working day overlaps with the US and Canada.
+- **Learning:** cybersecurity, which shapes how I build: validation, authentication and data
+  isolation come first. **Off the clock:** gaming.
 
 ### What I can build for you
 
@@ -65,6 +72,15 @@ Send me a short description of what you need and I'll reply with questions or a 
 Soy desarrollador web full stack en Medellín, Colombia. Construyo aplicaciones a medida,
 APIs y automatizaciones con **Laravel**, **Vue** y **Python** para negocios y equipos que
 necesitan algo hecho a la medida, desde una API hasta un panel administrativo completo.
+
+### Sobre mí
+
+- **3 años construyendo software para clientes reales**, después de 2 años de estudios.
+- **Páginas web para pequeñas empresas**, y **páginas y automatizaciones para organizaciones
+  grandes** como la Universidad de Antioquia (UdeA).
+- **Trabajo en español (nativo) e inglés (B2 certificado).**
+- **Aprendiendo:** ciberseguridad, y se nota en cómo construyo: validación, autenticación y
+  aislamiento de datos van primero. **En mi tiempo libre:** gaming.
 
 ### En qué te puedo ayudar
 

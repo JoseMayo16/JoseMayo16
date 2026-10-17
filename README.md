@@ -37,7 +37,8 @@ Desarrollador web full stack en Medellín, Colombia. Construyo aplicaciones a me
 ### Contacto
 
 - Portafolio: [josemayo16.github.io](https://josemayo16.github.io)
-<!-- - Correo: nombre@correo.com -->
+- Correo: [jnjsmayo@gmail.com](mailto:jnjsmayo@gmail.com)
+- WhatsApp: [+57 301 661 2888](https://wa.me/573016612888)
 <!-- - LinkedIn: https://www.linkedin.com/in/tu-perfil -->
 
 <details>

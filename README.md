@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Juan José, full stack developer in Medellín, Colombia. 3 years building for clients, English B2, interested in cybersecurity and gaming. Available for freelance.">
+<img src="assets/banner.svg" width="100%" alt="Juan José, full stack developer in Medellín, Colombia. Almost 3 years building web apps and automations, interested in cybersecurity and gaming. Available for freelance.">
 
 <br><br>
 
@@ -23,6 +23,11 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" alt="Airtable">
+<img src="https://img.shields.io/badge/Monday-6161FF?style=flat-square" alt="Monday">
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 
 **[English](#english)** &nbsp;·&nbsp; **[Español](#español)**
@@ -33,18 +38,24 @@
 
 ## English
 
-I build custom web apps, APIs and automations with **Laravel**, **Vue** and **Python** for
+I build custom web apps, APIs and automations with **Laravel**, **Vue**, **Python** and **n8n** for
 businesses and teams that need something made for them, from a single API to a full admin
 dashboard.
 
-| **3 years** | **2 years** | **B2** | **UTC-5** |
+| **~3 years** | **SENA** | **n8n · Airtable** | **UTC-5** |
 |:-:|:-:|:-:|:-:|
-| building for real clients | of formal studies | certified English | overlaps US and Canada hours |
+| of work experience | Software Development Technologist | automation in production | overlaps US and Canada hours |
 
 ### About me
 
-- **Real client work:** websites for small businesses, and websites and automations for
-  large organizations such as **Universidad de Antioquia (UdeA)**.
+- **Pase Seguro S.A.S** (Jan 2026 - Jun 2026), Full-Stack Developer: web solutions,
+  automations and integrations between tools, internal systems support.
+- **Universidad de Antioquia** (Oct 2023 - Dec 2025), Full-Stack and Automation Developer:
+  WordPress, FlutterFlow, SQL and automations with **n8n, Monday and Airtable**. For example,
+  n8n workflows that take every Fillout form submission, filter and clean the data, and
+  create or update the matching record in Airtable, so nobody copies data by hand.
+- **Small businesses:** websites to present and sell their business.
+- **Languages:** Spanish (native), English (conversational).
 - **Security-minded:** I'm into cybersecurity, and it shows in how I build. Validation,
   authentication and data isolation come first, not at the end.
 - **Off the clock:** gaming.
@@ -55,8 +66,8 @@ dashboard.
 |---|---|
 | **Custom web apps** | Admin dashboards, inventory, booking, internal tools. Laravel backend, Vue frontend. |
 | **APIs and backends** | REST APIs with validation, authentication and a well-modeled database, ready to plug into your site or app. |
-| **Automation and scraping** | Python scripts that collect data, generate reports or take care of repetitive tasks. |
-| **Websites and landing pages** | Fast, mobile-friendly and easy to maintain. |
+| **Automation and integrations** | n8n workflows, forms connected to Airtable or Monday, syncing data between apps, Python scripts and scraping. |
+| **Websites and landing pages** | Hand-coded or WordPress: fast, mobile-friendly and easy to maintain. |
 
 ### Featured projects
 
@@ -107,18 +118,24 @@ Send me a short description of what you need and I'll reply with questions or a 
 
 ## Español
 
-Construyo aplicaciones a medida, APIs y automatizaciones con **Laravel**, **Vue** y **Python**
+Construyo aplicaciones a medida, APIs y automatizaciones con **Laravel**, **Vue**, **Python** y **n8n**
 para negocios y equipos que necesitan algo hecho a la medida, desde una API hasta un panel
 administrativo completo.
 
-| **3 años** | **2 años** | **B2** | **UTC-5** |
+| **~3 años** | **SENA** | **n8n · Airtable** | **UTC-5** |
 |:-:|:-:|:-:|:-:|
-| construyendo para clientes reales | de estudios formales | inglés certificado | horario compatible con EE. UU. y Canadá |
+| de experiencia laboral | Tecnólogo en Desarrollo de Software | automatización en producción | horario compatible con EE. UU. y Canadá |
 
 ### Sobre mí
 
-- **Trabajo con clientes reales:** páginas web para pequeñas empresas, y páginas y
-  automatizaciones para organizaciones grandes como la **Universidad de Antioquia (UdeA)**.
+- **Pase Seguro S.A.S** (ene 2026 - jun 2026), Desarrollador Full-Stack: soluciones web,
+  automatizaciones e integraciones entre herramientas, soporte de sistemas internos.
+- **Universidad de Antioquia** (oct 2023 - dic 2025), Desarrollador Full-Stack y Automatización:
+  WordPress, FlutterFlow, SQL y automatizaciones con **n8n, Monday y Airtable**. Por ejemplo,
+  flujos en n8n que toman cada respuesta de un formulario de Fillout, filtran y limpian los
+  datos, y crean o actualizan el registro en Airtable, sin que nadie copie datos a mano.
+- **Pequeñas empresas:** páginas web para presentar y vender su negocio.
+- **Idiomas:** español (nativo), inglés (conversacional).
 - **Con mentalidad de seguridad:** me interesa la ciberseguridad y se nota en cómo construyo.
   Validación, autenticación y aislamiento de datos van primero, no al final.
 - **Fuera del trabajo:** los videojuegos.
@@ -129,8 +146,8 @@ administrativo completo.
 |---|---|
 | **Aplicaciones web a medida** | Paneles administrativos, inventarios, reservas, gestión interna. Backend en Laravel, interfaz en Vue. |
 | **APIs y backends** | APIs REST con validación, autenticación y una base de datos bien modelada, listas para conectar con tu web o app. |
-| **Automatización y scraping** | Scripts en Python que recolectan datos, generan reportes o se encargan de tareas repetitivas. |
-| **Sitios y landing pages** | Rápidos, adaptados a celular y fáciles de mantener. |
+| **Automatización e integraciones** | Flujos en n8n, formularios conectados a Airtable o Monday, sincronización de datos entre apps, scripts en Python y scraping. |
+| **Sitios y landing pages** | En código o en WordPress: rápidos, adaptados a celular y fáciles de mantener. |
 
 ### Proyectos destacados
 

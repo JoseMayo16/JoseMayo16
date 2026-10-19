@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" width="960" height="440" role="img" aria-labelledby="title">
-  <title id="title">Juan José, full stack developer in Medellín, Colombia. 3 years building for clients, 2 years of studies, English B2. Skills: Laravel, Vue, Python, TypeScript, automation. Interests: cybersecurity, gaming. Available for freelance.</title>
+  <title id="title">Juan José, full stack developer in Medellín, Colombia. Almost 3 years of experience at Universidad de Antioquia, Pase Seguro and freelance; SENA technologist. Skills: Laravel, Vue, Python, n8n, Airtable, APIs. Interests: cybersecurity, gaming. Available for freelance.</title>
   <defs>
     <linearGradient id="edge" x1="0" x2="1">
       <stop offset="0" stop-color="#6fd4ae"/>
@@ -62,10 +62,10 @@
     <text class="l l2" x="36" y="118"><tspan class="name">Juan José</tspan><tspan class="m">  ·  </tspan>full stack developer<tspan class="m">  ·  </tspan>Medellín, Colombia</text>
 
     <text class="l l3" x="36" y="160"><tspan class="p">$</tspan> <tspan class="c">cat experience.txt</tspan></text>
-    <text class="l l4" x="36" y="190">3 years building for clients<tspan class="m">  ·  </tspan>2 years of studies<tspan class="m">  ·  </tspan>English B2</text>
+    <text class="l l4" x="36" y="190">~3 years: UdeA, Pase Seguro, freelance<tspan class="m">  ·  </tspan>SENA technologist</text>
 
     <text class="l l5" x="36" y="232"><tspan class="p">$</tspan> <tspan class="c">ls skills/</tspan></text>
-    <text class="l l6" x="36" y="262"><tspan class="dir">laravel/   vue/   python/   typescript/   automation/</tspan></text>
+    <text class="l l6" x="36" y="262"><tspan class="dir">laravel/   vue/   python/   n8n/   airtable/   apis/</tspan></text>
 
     <text class="l l7" x="36" y="304"><tspan class="p">$</tspan> <tspan class="c">ls interests/</tspan></text>
     <text class="l l8" x="36" y="334"><tspan class="sec">cybersecurity/</tspan>   <tspan class="fun">gaming/</tspan></text>

@@ -9,7 +9,7 @@
 <a href="https://josemayo16.github.io"><img src="https://img.shields.io/badge/Portfolio-josemayo16.github.io-0f6b50?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:jnjsmayo@gmail.com"><img src="https://img.shields.io/badge/Email-jnjsmayo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://wa.me/573016612888"><img src="https://img.shields.io/badge/WhatsApp-%2B57_301_661_2888-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://www.linkedin.com/in/juan-jos%C3%A9-mayo-m-1682252b2"><img src="https://img.shields.io/badge/LinkedIn-Juan_José_Mayo-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/juan-jose-mayo"><img src="https://img.shields.io/badge/LinkedIn-Juan_José_Mayo-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
@@ -112,7 +112,7 @@ Cleans messy CSV and Excel files: duplicates, spelling variants, emails, phones,
 ### Let's talk
 
 Send me a short description of what you need and I'll reply with questions or a first proposal:
-**[email](mailto:jnjsmayo@gmail.com)** · **[WhatsApp](https://wa.me/573016612888)** · **[LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-mayo-m-1682252b2)** · **[portfolio](https://josemayo16.github.io)**
+**[email](mailto:jnjsmayo@gmail.com)** · **[WhatsApp](https://wa.me/573016612888)** · **[LinkedIn](https://www.linkedin.com/in/juan-jose-mayo)** · **[portfolio](https://josemayo16.github.io)**
 
 ---
 
@@ -192,4 +192,4 @@ Limpia archivos CSV y Excel desordenados: duplicados, variantes de escritura, co
 ### Hablemos
 
 Escríbeme con una descripción corta de lo que necesitas y te respondo con preguntas o una primera propuesta:
-**[correo](mailto:jnjsmayo@gmail.com)** · **[WhatsApp](https://wa.me/573016612888)** · **[LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-mayo-m-1682252b2)** · **[portafolio](https://josemayo16.github.io)**
+**[correo](mailto:jnjsmayo@gmail.com)** · **[WhatsApp](https://wa.me/573016612888)** · **[LinkedIn](https://www.linkedin.com/in/juan-jose-mayo)** · **[portafolio](https://josemayo16.github.io)**

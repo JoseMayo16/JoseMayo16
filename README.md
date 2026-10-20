@@ -80,7 +80,7 @@ Invoicing for freelancers and studios: PDF invoices, email delivery and card pay
 <br><br>
 <sub><b>Laravel 13 · Vue 3 · TypeScript · Stripe</b></sub>
 <br>
-<sub>Per-company data isolation, signed and idempotent webhook, 55 tests.</sub>
+<sub>Per-company data isolation, signed and idempotent webhook, 56 tests.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://josemayo16.github.io/jobs-pulse/"><img src="assets/jobs-pulse.jpg" alt="Jobs Pulse dashboard"></a>
@@ -160,7 +160,7 @@ Facturación para freelancers y estudios: facturas en PDF, envío por correo y p
 <br><br>
 <sub><b>Laravel 13 · Vue 3 · TypeScript · Stripe</b></sub>
 <br>
-<sub>Datos aislados por empresa, webhook firmado e idempotente, 55 tests.</sub>
+<sub>Datos aislados por empresa, webhook firmado e idempotente, 56 tests.</sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://josemayo16.github.io/jobs-pulse/"><img src="assets/jobs-pulse.jpg" alt="Dashboard de Jobs Pulse"></a>

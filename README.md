@@ -92,7 +92,7 @@ Tracks which technologies remote job posts ask for and publishes a trends dashbo
 <sub>Runs itself every day, at no cost.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://josemayo16.github.io/data-cleaner/"><img src="assets/data-cleaner.jpg" alt="Data Cleaner app"></a>
+<a href="https://josemayo16.github.io/data-cleaner/?sample=crm-contacts.csv&run=1"><img src="assets/data-cleaner.jpg" alt="Data Cleaner app"></a>
 <h4><a href="https://github.com/JoseMayo16/data-cleaner">Data Cleaner</a> · <a href="https://josemayo16.github.io/data-cleaner/">live</a></h4>
 Cleans messy CSV and Excel files: duplicates, spelling variants, emails, phones, dates.
 <br><br>
@@ -172,7 +172,7 @@ Rastrea qué tecnologías piden las ofertas remotas y publica un dashboard de te
 <sub>Corre solo cada día, sin costo.</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://josemayo16.github.io/data-cleaner/"><img src="assets/data-cleaner.jpg" alt="App Data Cleaner"></a>
+<a href="https://josemayo16.github.io/data-cleaner/?sample=crm-contacts.csv&run=1"><img src="assets/data-cleaner.jpg" alt="App Data Cleaner"></a>
 <h4><a href="https://github.com/JoseMayo16/data-cleaner">Data Cleaner</a> · <a href="https://josemayo16.github.io/data-cleaner/">demo</a></h4>
 Limpia archivos CSV y Excel desordenados: duplicados, variantes de escritura, correos, teléfonos, fechas.
 <br><br>
